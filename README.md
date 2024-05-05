@@ -1,21 +1,26 @@
-# streamlit_metric_dashboard
-Streamlit Metric Analytics Dashboard
+# **Training and deploying machine learning model using streamlit**  
 
-![image](https://user-images.githubusercontent.com/5347322/130329533-27dbb82d-da12-41e0-b147-131e919d561f.png)
+In this repository we use the [Iris](https://www.kaggle.com/datasets/uciml/iris) dataset, [RandomForestClassifier](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html) and [streamlit](https://docs.streamlit.io/) to train and deploy live machine learning model on an interactive web application.
 
 
-### How to Run?
+### **Deployed model** [Iris model deployment](https://iris-model-deployment.streamlit.app/)
 
-Update Streamlit to the latest version with 
 
-```
-pip3 install --upgrade streamlit
-```
+### **Packages**
+- [numpy](scikit-learn), [pandas](https://pandas.pydata.org/)
+- [joblib](https://pypi.org/project/joblib/), [pickle5](https://pypi.org/project/pickle5/)
+- [streamlit](https://streamlit.io/)
+- [scikit-learn](https://scikit-learn.org/stable/)
+- [matplotlib](https://matplotlib.org/), [seaborn](https://seaborn.pydata.org/) , [plotly](https://plotly.com/python/)
 
-Download / Clone the Repo and enter into the folder with your `Terminal` or `Shell`
 
-Run `streamlit run new_app.py` 
 
-Open the given link in the terminal and enjoy your 📈
 
+
+
+
+
+### **Interactive tutorial**
+
+https://github.com/Kmohamedalie/iris-streamlit/assets/63104472/50661fe2-bc6b-4441-b590-dda8e0e0a6b5
 

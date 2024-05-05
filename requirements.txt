@@ -1,4 +1,9 @@
-streamlit
 numpy
-pandas
+pickle5
+streamlit
 seaborn
+matplotlib
+plotly
+pandas
+joblib
+scikit-learn
