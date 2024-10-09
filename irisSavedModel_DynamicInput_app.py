@@ -56,5 +56,5 @@ newData.to_csv('newDf.csv')
 st.text('')
 st.text('')
 st.markdown(
-    '`Initial code was developed by` [santiviquez](https://twitter.com/santiviquez) | \
-         `Code modification and update by:` [Mohamed Alie](https://github.com/Kmohamedalie/iris-streamlit/tree/main)')
+    '`Initial code was developed by` [abc](https://twitter.com/abc) | \
+         `Code modification and update by:` [bcd](https://github.com/bcd/iris-streamlit/tree/main)')
